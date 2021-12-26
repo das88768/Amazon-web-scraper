@@ -21,7 +21,7 @@ And type -
             
 Where '-a' is a argument and '-O' is the output file type.
 
-# Method
+# #Method
 In the first method, the products data are stored in database as well as in a json file.
 
 
