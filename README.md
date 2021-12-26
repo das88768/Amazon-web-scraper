@@ -1,5 +1,5 @@
 # #Amazon-web-scraper
-This is a python program, which use scrapy python framework to scrap amazon products data.
+This is a python program, which use scrapy python framework to crawl all pages of the product and scrap products data.
 This program scrap product data, such as price, discounted price and link to the product.
 And store each data into the sql database, for easily accessible.
 
